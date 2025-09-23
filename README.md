@@ -44,9 +44,7 @@
 
 <tr><td>
 
-##  🛰️Connect with me:
-
-###  🐧Connect with me:
+###  🛰️Connect with me:
 <p>&emsp;&emsp;<strong>V/Q:810102685</strong></p>
 
 </td></tr>
