@@ -45,8 +45,8 @@
 <tr><td>
 
 ###  🛰️Connect with me:
-<p>&emsp;&emsp;<strong>V/Q:810102685</strong></p>
-<p>&emsp;&emsp;<strong>Email:810102685.qq.com</strong></p>
+<p>&emsp;&emsp;<strong>V/Q:&emsp;810102685</strong></p>
+<p>&emsp;&emsp;<strong>Email:&emsp;810102685.qq.com</strong></p>
 
 </td></tr>
 
